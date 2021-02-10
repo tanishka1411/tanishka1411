@@ -1,4 +1,6 @@
 ### Hi there 👋
+![ViewCount](https://views.whatilearened.today/views/github/tanishka1411/views.svg)
+
 
 <!--
 **tanishka1411/tanishka1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
