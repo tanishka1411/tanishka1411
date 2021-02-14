@@ -17,14 +17,15 @@
 <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=30> <img src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" width=30> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="30">  <img src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" width=30> 
 </p>
 
-
+<details>
+<summary>Click for GitHub Stats</summary>
 <p>
 <a href="https://github.com/tanishka1411/tanishka1411">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tanishka1411&show_icons=true&theme=radical&repo=tanishka1411" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishka1411&show_icons=true&theme=radical&repo=tanishka1411" /><br>
 </a>
 </p>
-
+</details>
 
 
 
