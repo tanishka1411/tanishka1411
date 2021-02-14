@@ -10,7 +10,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/tanishka1411/views.svg)
 ![](https://visitor-badge.glitch.me/badge?page_id=tanishka1411.tanishka1411)
 ![](https://komarev.com/ghpvc/?username=tanishka1411&color=brightgreen)
-
+<a href="https://github.com/tanishka1411/tanishka1411" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/tanishka1411/tanishka1411?label=profile%20updated"></a>
 <p align="left">
 <b>Programming Languages  :rocket: </b>
 <br>
@@ -21,8 +21,8 @@
 <summary>Click for GitHub Stats</summary>
 <p>
 <a href="https://github.com/tanishka1411/tanishka1411">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tanishka1411&show_icons=true&theme=radical&repo=tanishka1411" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishka1411&show_icons=true&theme=radical&repo=tanishka1411" /><br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tanishka1411&show_icons=true&theme=dark&repo=tanishka1411" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishka1411&show_icons=true&theme=dark&repo=tanishka1411" /><br>
 </a>
 </p>
 </details>
