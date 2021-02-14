@@ -9,7 +9,7 @@
 
 ![ViewCount](https://views.whatilearened.today/views/github/tanishka1411/views.svg)
 ![](https://visitor-badge.glitch.me/badge?page_id=tanishka1411.tanishka1411)
-![](https://komarev.com/ghpvc/?username=muskanrani&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=tanishka1411&color=brightgreen)
 
 <p align="left">
 <b>Programming Languages  :rocket: </b>
