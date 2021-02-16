@@ -7,8 +7,8 @@
   <img width="150" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" >
 </p>
 
-![ViewCount](https://views.whatilearened.today/views/github/tanishka1411/views.svg)
-![](https://visitor-badge.glitch.me/badge?page_id=tanishka1411.tanishka1411)
+<!--![ViewCount](https://views.whatilearened.today/views/github/tanishka1411/views.svg)
+![](https://visitor-badge.glitch.me/badge?page_id=tanishka1411.tanishka1411)-->
 ![](https://komarev.com/ghpvc/?username=tanishka1411&color=brightgreen)
 <a href="https://github.com/tanishka1411/tanishka1411" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/tanishka1411/tanishka1411?label=profile%20updated"></a>
 <p align="left">
