@@ -17,6 +17,8 @@
 <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=30> <img src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" width=30> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="30">  <img src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" width=30> 
 </p>
 
+🌱 I’m currently learning OpenCV
+
 <details>
 <summary>Click for GitHub Stats</summary>
 <p>
