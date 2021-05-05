@@ -14,8 +14,14 @@
 <p align="left">
 <b>Programming Languages  :rocket: </b>
 <br>
-<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=30> <img src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" width=30> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="30">  <img src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" width=30> 
+<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=30> <img src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" width=30> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="30">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width=30/>
 </p>
+
+<p align="left">
+  <b>Skills 🌟 </b>
+  <br>
+<img src="https://github.com/Thomas-George-T/Thomas-George-T/blob/master/assets/mysql.svg" width=30>
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width=30/>
 
 🌱 I’m currently learning OpenCV
 
