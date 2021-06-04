@@ -23,7 +23,7 @@
 <img src="https://github.com/Thomas-George-T/Thomas-George-T/blob/master/assets/mysql.svg" width=30>
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width=30/>
 
-🌱 I’m currently learning OpenCV
+🌱 I’m currently learning Data Science.
 
 <details>
 <summary>Click for GitHub Stats</summary>
