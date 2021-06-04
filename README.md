@@ -30,8 +30,11 @@
 <p>
 <a href="https://github.com/tanishka1411/tanishka1411">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tanishka1411&show_icons=true&theme=dark&repo=tanishka1411" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishka1411&show_icons=true&theme=dark&repo=tanishka1411" /><br>
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishka1411&show_icons=true&theme=dark&repo=tanishka1411" /><br> -->
 </a>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishka1411&layout=compact&show_icons=true&theme=dark)](https://github.com/tanishka1411/github-readme-stats)
+
 </p>
 </details>
 
