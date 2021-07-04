@@ -12,16 +12,28 @@
 ![](https://komarev.com/ghpvc/?username=tanishka1411&color=brightgreen)
 <a href="https://github.com/tanishka1411/tanishka1411" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/tanishka1411/tanishka1411?label=profile%20updated"></a>
 <p align="left">
-<b>Programming Languages  :rocket: </b>
-<br>
-<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=30> <img src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" width=30> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="30">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width=30/>
-</p>
+  
+<h3> 🛠 Tech Stack </h3>
 
+  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
+  ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
+  ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)
+</p>
 <p align="left">
-  <b>Skills 🌟 </b>
-  <br>
-<img src="https://github.com/Thomas-George-T/Thomas-George-T/blob/master/assets/mysql.svg" width=30>
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width=30/>
+<h3> 🔥 Reach Me<br>
+
+<a href="https://www.linkedin.com/in/tanishka-vashisht-12b8a51b4/" alt="LinkedIn">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+<a href="https://www.hackerrank.com/Tanishka1411" alt="HackerRank">
+<img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>
+<a href="https://stackoverflow.com/users/15034627/tanishka-vashisht" alt="StackOverflow">
+<img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
+</p>
 
 🌱 I’m currently learning Data Science.
 
