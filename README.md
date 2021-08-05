@@ -28,7 +28,7 @@
   ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/matplotlib%20-%23013243.svg?style=flat&logo=matplotlib)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23DE3163.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 </p>
 <p align="left">
 <h3> 🔥 Reach Me<br>
