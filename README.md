@@ -23,12 +23,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23DE3163.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 </p>
 <p align="left">
 <h3> 🔥 Reach Me<br>
@@ -42,20 +36,6 @@
 </p>
 
 🌱 I’m Always Learning.
-
-<details>
-<summary>Click for GitHub Stats</summary>
-<p>
-<a href="https://github.com/tanishka1411/tanishka1411">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tanishka1411&show_icons=true&theme=dark&repo=tanishka1411" />
-<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishka1411&show_icons=true&theme=dark&repo=tanishka1411" /><br> -->
-</a>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishka1411&layout=compact&show_icons=true&theme=dark)](https://github.com/tanishka1411/github-readme-stats)
-
-</p>
-</details>
-
 
 
 <img height="50" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
