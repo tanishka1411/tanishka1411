@@ -1,7 +1,7 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hey there!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
 
 
-### I'm Tanishka Vashisht currently pursuing BE(CSE) from <a href="https://www.cuchd.in/">Chandigarh University :school: </a>
+### I'm Tanishka a Software Developer.
 
 <p align="center">
   <img width="150" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" >
@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
 </p>
 
-🌱 I’m currently learning Data Science.
+🌱 I’m Always Learning.
 
 <details>
 <summary>Click for GitHub Stats</summary>
